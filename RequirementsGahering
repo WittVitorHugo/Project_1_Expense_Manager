@@ -1,0 +1,27 @@
+Requirements Gathering
+
+Front-end
+. Dashbord screen
+. Vizualization of datas in graphs
+. Login and Sign up Screen
+. Historic Screen
+. Add and update manually invoices
+. Admin Screen
+
+Back-end
+. Comparator between periods of time
+. Database connection
+. OCR - Optical Character Recognition implementation
+. App connection
+. CRUD methods
+. Admin access
+. Admin methods (Analysis)
+
+Database (SQL or NoSQL???)
+. Design database
+. Create database
+
+App
+. Login screen
+. Dashboard screen
+. Upload implementation
